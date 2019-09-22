@@ -13,15 +13,24 @@ of this document.
 You should also check the [issues](https://github.com/ContributorCovenant/hippocratic-license/issues)
 for the latest discussions involving the current and future versions of the license.
 
-To build the website locally, first install [Hugo](https://gohugo.io) using your package manager of choice.
-For example, using [Homebrew](https://brew.sh) on macOS:
+To build the website locally, first [install Hugo](https://gohugo.io/getting-started/installing)
+using your package manager of choice.  
+For example, on Debian/Ubuntu:
+```
+apt-get install hugo
+```
 
+or if you are using Arch Linux:
+```
+pacman -S hugo
+```
+
+or using [Homebrew](https://brew.sh) on macOS:
 ```
 brew install hugo
 ```
 
-Then, from the repo root directory, start the development server:
-
+Then from the repository's root directory, start the development server:
 ```
 hugo server -D
 ```
