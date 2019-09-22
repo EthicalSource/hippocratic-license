@@ -28,8 +28,6 @@ hugo server -D
 
 ## Adding a Project to the List of Adopters
 
-## Adding a Project to the List of Adopters
-
 * Fork the repository.
 * Add a new row to the [adopters.csv](static/adopters.csv) file,
   with the project name in the first column, and the project URL in the second column.
