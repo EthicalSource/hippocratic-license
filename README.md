@@ -3,7 +3,7 @@ An ethical open source license alternative.
 
 ## Project Home Page
 
-For an overview and usage instructions, please visit [hippocratic-license.org](https://hippocratic-license.org/)
+For an overview and usage instructions, please visit [firstdonoharm.dev](https://firstdonoharm.dev/)
 
 ## Contributing
 
@@ -28,4 +28,9 @@ hugo server -D
 
 ## Adding a Project to the List of Adopters
 
-To add your project to our list of adopters, fill out [this form](https://goo.gl/forms/9ypl1jTvoV5LGW2x2)
+## Adding a Project to the List of Adopters
+
+* Fork the repository.
+* Add a new row to the [adopters.csv](static/adopters.csv) file,
+  with the project name in the first column, and the project URL in the second column.
+* Open a pull request.
