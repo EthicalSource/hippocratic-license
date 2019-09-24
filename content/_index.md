@@ -17,13 +17,13 @@ Open source licenses have long been a tool for promoting the use of our software
 
 Introducing the Hippocratic License: a modified MIT license that specifically prohibits the use of  open source software to harm others.
 
-## Hippocratic License v1.0
+## Hippocratic License v1.1
 
 You can view and download the latest version of the Hippocratic License here:
 
-- [Markdown]({{< ref "/version/1/0/license.md" "markdown" >}})
-- [HTML version]({{< ref "/version/1/0/license.md" >}})
-- [Text version]({{< ref "/version/1/0/license.md" "plaintext" >}})
+- [Markdown]({{< ref "/version/1/1/license.md" "markdown" >}})
+- [HTML version]({{< ref "/version/1/1/license.md" >}})
+- [Text version]({{< ref "/version/1/1/license.md" "plaintext" >}})
 
 ## Using the Hippocratic License
 
