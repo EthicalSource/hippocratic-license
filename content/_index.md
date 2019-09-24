@@ -1,8 +1,8 @@
 +++
-title = "An Ethical Open Source License"
+title = "An Ethical Softawre License"
 +++
 
-## An Ethical License for Open Source Projects
+## An Ethical License for Software Projects
 For too long, software developers have divorced themselves from the consequences of the code that we write. We have told ourselves that development is a pure and abstract pursuit, and have spent our careers writing programs with the goals of clarity, conciseness, readability, performance, and elegance.
 
 But we are starting to realize that the software that we create has a real and lasting impact on the world in which we live.
@@ -15,7 +15,7 @@ One of the delightful things about code is discovering its utility in novel situ
 
 Open source licenses have long been a tool for promoting the use of our software under our own rules and conditions. In the past these licenses were used to allow the free distribution, modification, and use of our software. But there is nothing stopping us from taking this further.
 
-Introducing the Hippocratic License: a modified MIT license that specifically prohibits the use of  open source software to harm others.
+Introducing the Hippocratic License: a modified MIT license that specifically prohibits the use of open source software to harm others.
 
 ## Hippocratic License v1.0
 
@@ -31,5 +31,5 @@ Simply make a copy of the text of the license and enter the copyright date and n
 
 ## How to Contribute
 
-The Hippocratic License is a living document, and has been [open sourced](https://github.com/ContributorCovenant/hippocratic-license "Hippocratic License source code").
+The Hippocratic License is a living document, and is available on [GitHub](https://github.com/ContributorCovenant/hippocratic-license "Hippocratic License source code").
 Contributions in the form of issues and pull requests are welcomed and encouraged.
