@@ -7,6 +7,8 @@ For full context on why I launched this project, please read [this thread](https
 
 My call to arms: amend clauses 5 and 6 of the [Open Source Definition](https://opensource.org/osd-annotated) to usher in a new era of ethical development, and for fucks sake #NoTechForICE.
 
+If you know of someone who is doing work in the OSS and ethics space, who is interested in a signal boost, please open an issue on [our repo](https://github.com/ContributorCovenant/hippocratic-license) or message @CoralineAda on Twitter and I will add them as a resource to this page.
+
 ## An Ethical License for Open Source Projects
 For too long, software developers have divorced themselves from the consequences of the code that we write. We have told ourselves that development is a pure and abstract pursuit, and have spent our careers writing programs with the goals of clarity, conciseness, readability, performance, and elegance.
 
