@@ -11,3 +11,4 @@ A trademark-based contract for OSS maintainers. [More information](https://frama
 ## More Reading
 
 * ["Do We Need to Rethink What Free Software Is?"](https://mjg59.dreamwidth.org/52907.html)
+* ["#wontfix: endorsements can't fix the Open Source Definition"](https://writing.kemitchell.com/2019/04/23/OSD-wontfix.html)
