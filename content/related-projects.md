@@ -7,3 +7,7 @@ If you know of someone who is doing work in the OSS and ethics space, who is int
 
 ### inno3
 A trademark-based contract for OSS maintainers. [More information](https://framagit.org/inno3/tm-contract-for-oss-maintainers)
+
+## More Reading
+
+* ["Do We Need to Rethink What Free Software Is?"](https://mjg59.dreamwidth.org/52907.html)
