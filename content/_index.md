@@ -34,7 +34,7 @@ You can view and download the latest version of the Hippocratic License here:
 
 ## A Note on OSD Compatibility
 
-The Hippocratic License likely does not meet the strict requirements of the [Open Source Definition](https://opensource.org/osd-annotated) provided by the Open Source Initiative, as this is a license that values human rights over software freedom. Traditional, officially sanctioned open source licenses cannot prohibit unethical usage, because [in their words](https://opensource.org/faq#evil), "giving everyone freedom means giving evil people freedom, too." Nonetheless, the Hippocratic License will be submitted to OSI for an official determination in the coming weeks.
+The Hippocratic License likely does not meet the strict requirements of the [Open Source Definition](https://opensource.org/osd-annotated) provided by the Open Source Initiative, as this is a license that values human rights over software freedom. Traditional, officially sanctioned open source licenses cannot prohibit unethical usage, because [in their own words](https://opensource.org/faq#evil), "giving everyone freedom means giving evil people freedom, too." Nonetheless, the Hippocratic License will be submitted to OSI for an official determination in the coming weeks.
 
 ## Using the Hippocratic License
 
