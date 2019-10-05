@@ -23,6 +23,7 @@ title = "Resources & Related Projects"
 
 If you know of someone who is doing work in the OSS and ethics space, who is interested in a signal boost, please open an issue on [our repo](https://github.com/ContributorCovenant/hippocratic-license) or message @CoralineAda on Twitter and I will add them as a resource to this page.
 
+* [The Ethical Source Movement](https://ethicalsource.dev). Provides a definition for next-generation ethical open source.
 * [966.ICU](https://github.com/996icu/996.ICU). An open source software license that advocates workers' rights.
 * [Do No Harm License](https://github.com/raisely/NoHarm). A license for developers who write open source code to make the world a better place.
 * [inno3](https://framagit.org/inno3/tm-contract-for-oss-maintainers). A trademark-based contract for OSS maintainers.
