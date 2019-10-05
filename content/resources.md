@@ -1,5 +1,5 @@
 +++
-title = "Resources & Related Projects"
+title = "Resources, Press, & Related Projects"
 +++
 
 ## Resources
