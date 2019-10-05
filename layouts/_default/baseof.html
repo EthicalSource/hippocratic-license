@@ -41,11 +41,12 @@
         <nav id="navigation">
           <ul>
             <li><a href="/">Home</a></li>
-            <li><a href="{{ ref . "adopters.md" }}">Adopters</a></li>
             {{- range last 1 (where $.Site.RegularPages "Section" "version") -}}
             <li><a href="{{ .Permalink | absLangURL }}">Latest&nbsp;Version</a></li>
             {{- end -}}
+            <li><a href="{{ ref . "about.md" }}">About</a></li>
             <li><a href="{{ ref . "related-projects.md" }}">Resources</a></li>
+            <li><a href="{{ ref . "adopters.md" }}">Adopters</a></li>
           </ul>
         </nav>
       </header>
@@ -55,8 +56,8 @@
       {{ end }}
       <footer>
         <p>
-          The Hippocratic License was created by <a href="http://where.coraline.codes/" title="Coraline Ada Ehmke">Coraline Ada Ehmke</a> based on the MIT License in 2019.<br>
-          Support this and other diversity initiatives through <a href="https://www.patreon.com/coraline" title="Patreon">our Patreon</a>.
+          The Hippocratic License was created by <a href="http://where.coraline.codes/" title="Coraline Ada Ehmke">Coraline Ada Ehmke</a> in 2019.<br>
+          Support this and related initiatives through <a href="https://www.patreon.com/coraline" title="Patreon">our Patreon</a>.
         </p>
       </footer>
     </div>

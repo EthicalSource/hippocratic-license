@@ -2,13 +2,6 @@
 title = "An Ethical Open Source License"
 +++
 
-## A Note from the Author
-For full context on why I launched this project, please read [this thread](https://twitter.com/CoralineAda/status/1176940605525712898). To summarize: my goal was to spark conversation about the implications of the "freedom at all costs" requirement for officially sanctioned Open Source software, in light of the abuses of power and civil and human rights violations of governments and their collaborators. Developers don't want their labor being used to do harm, and the current structure of open source software strips any power from creators to prevent this from happening. We are being exploited. Human freedom is being traded for so-called "software freedom".
-
-My call to arms: amend clauses 5 and 6 of the [Open Source Definition](https://opensource.org/osd-annotated) to usher in a new era of ethical development, and for fucks sake #NoTechForICE.
-
-If you know of someone who is doing work in the OSS and ethics space, who is interested in a signal boost, please open an issue on [our repo](https://github.com/ContributorCovenant/hippocratic-license) or message @CoralineAda on Twitter and I will add them as a resource to this page.
-
 ## An Ethical License for Open Source Projects
 For too long, software developers have divorced themselves from the consequences of the code that we write. We have told ourselves that development is a pure and abstract pursuit, and have spent our careers writing programs with the goals of clarity, conciseness, readability, performance, and elegance.
 
@@ -20,7 +13,7 @@ All of these technologies are inherently political. There is no neutral politica
 
 One of the delightful things about code is discovering its utility in novel situations. But if those novel situations involve harming other people, we can and should feel responsible. So what can we do about it?
 
-Open source licenses have long been a tool for promoting the use of our software under our own rules and conditions. In the past these licenses were used to allow the free distribution, modification, and use of our software. But there is nothing stopping us from taking this further.
+Open source licenses have long been the primary tool for promoting the use of our software under our own rules and conditions. In the past these licenses were used to allow the free distribution, modification, and use of our software. But there is nothing stopping us from taking this further.
 
 Introducing the Hippocratic License: a modified MIT license that specifically prohibits the use of open source software to harm others and embodies the principles of [Ethical Source Software](https://ethicalsource.dev).
 
@@ -31,10 +24,6 @@ You can view and download the latest version of the Hippocratic License here:
 - [Markdown]({{< ref "/version/1/1/license.md" "markdown" >}})
 - [HTML version]({{< ref "/version/1/1/license.md" >}})
 - [Text version]({{< ref "/version/1/1/license.md" "plaintext" >}})
-
-## A Note on OSD Compatibility
-
-The Hippocratic License likely does not meet the strict requirements of the [Open Source Definition](https://opensource.org/osd-annotated) provided by the Open Source Initiative, as this is a license that values human rights over software freedom. Traditional, officially sanctioned open source licenses cannot prohibit unethical usage, because [in their own words](https://opensource.org/faq#evil), "giving everyone freedom means giving evil people freedom, too." Nonetheless, the Hippocratic License will be submitted to OSI for an official determination in the coming weeks.
 
 ## Using the Hippocratic License
 
