@@ -6,6 +6,8 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 * The software may not be used by individuals, corporations, governments, or other groups for systems or activities that actively and knowingly endanger, harm, or otherwise threaten the physical, mental, economic, or general well-being of other individuals or groups in violation of the [United Nations Universal Declaration of Human Rights](https://www.un.org/en/universal-declaration-human-rights/).
 
+* If the Software is used to provide a service to others, the licensee must, as a condition of use, require those others not to use the service in any way which violates the United Nations Universal Declaration of Human Rights, and take reasonable measures to prevent such use.
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 This license is derived from the MIT License, as amended to limit the impact of the unethical use of open source software.
