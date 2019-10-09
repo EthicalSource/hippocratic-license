@@ -7,6 +7,7 @@ title = "Resources, Press, & Related Projects"
 * ["Do We Need to Rethink What Free Software Is?"](https://mjg59.dreamwidth.org/52907.html)
 * ["#wontfix: endorsements can't fix the Open Source Definition"](https://writing.kemitchell.com/2019/04/23/OSD-wontfix.html)
 * [Six Myths about "ethical" open source licenses](https://hackernoon.com/6-myths-about-ethical-open-source-licenses-3bfbd042b1dc)
+* [Open Source is Broken](https://medium.com/@degoodmanwilson/open-source-is-broken-d836efbceb4f)
 
 ## In the Press
 
