@@ -20,6 +20,7 @@ title = "Resources, Press, & Related Projects"
 * [Ethical Open Source Licence dilemma](https://openuk.uk/ethical-open-source-licence-dilemma-andrew-katz-pro-bono-gc-openuk/) (Open UK)
 * [The Great Open Source Divide: ICE, Hippocratic License and the Controversy](https://itsfoss.com/hippocratic-license/) (It's FOSS)
 * [You can't open-source license morality](https://www.zdnet.com/article/you-cant-open-source-license-morality/) (ZDNet)
+* [Ethical Open Source: Is the world ready?](https://www.lexology.com/library/detail.aspx?g=c2056cf6-d3a8-4016-83d0-322a69f78e1a)
 
 ## Related Projects
 
