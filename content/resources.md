@@ -11,7 +11,7 @@ title = "Resources, Press, & Related Projects"
 
 ## In the Press
 
-* [Ethical Open Source: Is the world ready?](https://www.lexology.com/library/detail.aspx?g=c2056cf6-d3a8-4016-83d0-322a69f78e1a)
+* [Ethical Open Source: Is the world ready?](https://www.torkinmanes.com/our-resources/publications-presentations/publication/ethical-open-source-is-the-world-ready)
 * [Open source et Défense : les liaisons dangereuses sur fond d'éthique](https://www.lemondeinformatique.fr/actualites/lire-open-source-et-defense-les-liaisons-dangereuses-sur-fond-d-ethique-76658.html) (Lemonde Informatique)
 * [An Open Source License That Requires Users to Do No Harm](https://www.wired.com/story/open-source-license-requires-users-do-no-harm/amp) (WIRED)
 * [The Hippocratic License: A new software license that prohibits uses that contravene the UN Universal Declaration of Human Rights](https://boingboing.net/2019/10/04/free-vs-open.html) (BoingBoing)
