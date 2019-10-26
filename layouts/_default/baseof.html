@@ -44,7 +44,6 @@
             {{- range last 1 (where $.Site.RegularPages "Section" "version") -}}
             <li><a href="{{ .Permalink | absLangURL }}">Latest&nbsp;Version</a></li>
             {{- end -}}
-            <li><a href="{{ ref . "about.md" }}">About</a></li>
             <li><a href="{{ ref . "faq.md" }}">FAQ</a></li>
             <li><a href="{{ ref . "resources.md" }}">Resources</a></li>
             <li><a href="{{ ref . "adopters.md" }}">Adopters</a></li>
