@@ -4,7 +4,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-* No Harm: The software may not be used by anyone for systems or activities that actively and knowingly endanger, harm, or otherwise threaten the physical, mental, economic, or general well-being of other individuals or groups, or that otherwise violate the United Nations Universal Declaration of Human Rights (https://www.un.org/en/universal-declaration-human-rights/).
+* No Harm: The software may not be used by anyone for systems or activities that actively and knowingly endanger, harm, or otherwise threaten the physical, mental, economic, or general well-being of other individuals or group in violation of the United Nations Universal Declaration of Human Rights (https://www.un.org/en/universal-declaration-human-rights/).
 
 * Services: If the Software is used to provide a service to others, the licensee must, as a condition of use, require those others not to use the service in any way which violates the No Harm clause above.
 
