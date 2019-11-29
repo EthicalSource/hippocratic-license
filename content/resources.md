@@ -2,14 +2,6 @@
 title = "Resources, Press, & Related Projects"
 +++
 
-## Resources
-
-* ["Ethical Source at WeTransfer"](https://bastiaan.cc/notes/ethical-source-at-wetransfer/)
-* ["Do We Need to Rethink What Free Software Is?"](https://mjg59.dreamwidth.org/52907.html)
-* ["#wontfix: endorsements can't fix the Open Source Definition"](https://writing.kemitchell.com/2019/04/23/OSD-wontfix.html)
-* [Six Myths about "ethical" open source licenses](https://hackernoon.com/6-myths-about-ethical-open-source-licenses-3bfbd042b1dc)
-* [Open Source is Broken](https://medium.com/@degoodmanwilson/open-source-is-broken-d836efbceb4f)
-
 ## In the Press
 
 * [Ethical Open Source: Is the world ready?](https://www.torkinmanes.com/our-resources/publications-presentations/publication/ethical-open-source-is-the-world-ready)
@@ -23,6 +15,15 @@ title = "Resources, Press, & Related Projects"
 * [The Great Open Source Divide: ICE, Hippocratic License and the Controversy](https://itsfoss.com/hippocratic-license/) (It's FOSS)
 * [You can't open-source license morality](https://www.zdnet.com/article/you-cant-open-source-license-morality/) (ZDNet)
 
+## Blogs & Other Resources
+
+* ["Ethical Source at WeTransfer"](https://bastiaan.cc/notes/ethical-source-at-wetransfer/)
+* ["Do We Need to Rethink What Free Software Is?"](https://mjg59.dreamwidth.org/52907.html)
+* ["#wontfix: endorsements can't fix the Open Source Definition"](https://writing.kemitchell.com/2019/04/23/OSD-wontfix.html)
+* [Six Myths about "ethical" open source licenses](https://hackernoon.com/6-myths-about-ethical-open-source-licenses-3bfbd042b1dc)
+* [Open Source is Broken](https://medium.com/@degoodmanwilson/open-source-is-broken-d836efbceb4f)
+* [Don't Just Do Something, Stand There](https://anonymoushash.vmbrasseur.com/2019/09/22/dont-just-do-something-stand-there/)
+
 ## Related Projects
 
 If you know of someone who is doing work in the OSS and ethics space, who is interested in a signal boost, please open an issue on [our repo](https://github.com/ContributorCovenant/hippocratic-license) or message @CoralineAda on Twitter and I will add them as a resource to this page.
@@ -31,3 +32,4 @@ If you know of someone who is doing work in the OSS and ethics space, who is int
 * [966.ICU](https://github.com/996icu/996.ICU). An open source software license that advocates workers' rights.
 * [Do No Harm License](https://github.com/raisely/NoHarm). A license for developers who write open source code to make the world a better place.
 * [inno3](https://framagit.org/inno3/tm-contract-for-oss-maintainers). A trademark-based contract for OSS maintainers.
+* [Atmosphere Licenses](https://www.open-austin.org/atmosphere-license/about/index.html). Open source, copyleft software licenses with fossil fuel divestment provisions.
