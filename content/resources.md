@@ -4,6 +4,7 @@ title = "Resources, Press, & Related Projects"
 
 ## In the Press
 
+* [Software freedom vs human freedom: A surge of activism is rocking open source developers, as programmers fight to stop their software from being used for 'evil'](https://outline.com/2Bh7JJ) (Business Insider)
 * [Ethical Open Source: Is the world ready?](https://www.torkinmanes.com/our-resources/publications-presentations/publication/ethical-open-source-is-the-world-ready)
 * [Open source et Défense : les liaisons dangereuses sur fond d'éthique](https://www.lemondeinformatique.fr/actualites/lire-open-source-et-defense-les-liaisons-dangereuses-sur-fond-d-ethique-76658.html) (Lemonde Informatique)
 * [An Open Source License That Requires Users to Do No Harm](https://www.wired.com/story/open-source-license-requires-users-do-no-harm/amp) (WIRED)
