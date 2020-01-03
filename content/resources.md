@@ -4,6 +4,7 @@ title = "Resources, Press, & Related Projects"
 
 ## In the Press
 
+* [The Schism at the Heart of the Open-Source Movement](https://www.theatlantic.com/technology/archive/2020/01/ice-contract-github-sparks-developer-protests/604339/)
 * [Software freedom vs human freedom: A surge of activism is rocking open source developers, as programmers fight to stop their software from being used for 'evil'](https://outline.com/2Bh7JJ) (Business Insider)
 * [Ethical Open Source: Is the world ready?](https://www.torkinmanes.com/our-resources/publications-presentations/publication/ethical-open-source-is-the-world-ready)
 * [Open source et Défense : les liaisons dangereuses sur fond d'éthique](https://www.lemondeinformatique.fr/actualites/lire-open-source-et-defense-les-liaisons-dangereuses-sur-fond-d-ethique-76658.html) (Lemonde Informatique)
