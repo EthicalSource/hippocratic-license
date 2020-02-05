@@ -19,5 +19,8 @@ Enforcement is a legitimate concern, but the question of the enforceability of o
 ## What happens if the No Harm clause is determined to be unenforceable?
 The language in the [draft 1.2 version of the license](https://github.com/ContributorCovenant/hippocratic-license/pull/28) ensures that in this circumstance the license reverts to the same legal enforceability of the unmodified MIT license.
 
+## How do I determine if my company or organization is covered by the No Harm clause?
+A good guideline is looking at your organization's conformance to Principles 1 and 2 of the [United Nations Global Compact](https://www.unglobalcompact.org/what-is-gc/mission/principles). From the commentary: "The weight of international criminal law jurisprudence indicates that the relevant standard for aiding and abetting is knowingly providing practical assistance or encouragement that has a substantial effect on the commission of a crime."
+
 ## How do I annotate the Hippocratic License in project documentation?
-Use *MIT - Hippocratic*.
+Use *MIT - Hippocratic 1.2*.
