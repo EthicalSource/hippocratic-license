@@ -3,10 +3,10 @@ title = "Frequently Asked Questions"
 +++
 
 ## Has the Hippocratic License been subject to legal review?
-Yes, and that review is ongoing as we continue to strengthen the language in the license.
+Yes, and we are working with a new team of IP lawyers to release the 2.0 version in mid-February.
 
 ## Has the Hippocratic License been reviewed and approved by the Open Source Initiative?
-The license will be submitted to the OSI for their review once a stable version has been completed.
+The license will be submitted to the OSI for their review once 2.0 has been released.
 
 ## Does the Hippocratic License violate the "No Discrimination" and "Fields of Endeavor" terms of the Open Source Definition?
 Those sections state that an Open Source License must not discriminate against any person or group of persons, or against any field of endeavor, respectively.
