@@ -25,8 +25,6 @@ html {
 body {
   background: var(--color-primary);
   color: var(--color-black);
-  border-left: 30rem solid var(--color-primary-lighter);
-
   font: 300 1.25rem/1.875rem "Metropolis", sans-serif;
   font-synthesis: none;
   -moz-hanging-punctuation: first last allow-end;
@@ -47,14 +45,6 @@ section {
   margin: 0 auto;
   max-width: 47rem;
   padding: 1.5rem;
-}
-
-header {
-  position: absolute;
-  top: 3rem;
-  left: 1rem;
-  text-align: center;
-  width: 28rem;
 }
 
 header a:hover {
@@ -125,7 +115,7 @@ h1 {
   font-weight: 600;
   letter-spacing: .125rem;
   line-height: 3rem;
-  margin: 1.5rem 0;
+  margin: 1.5rem;
   text-align: center;
   text-transform: uppercase;
 }
@@ -203,7 +193,6 @@ abbr {
   display: inline-block;
   height: 2.625rem;
   margin-top: .75rem;
-  margin-right: .75rem;
   vertical-align: -.8125rem;
   width: 2.625rem;
   padding: 1rem;
@@ -299,7 +288,7 @@ header nav ul {
 }
 
 header nav li {
-  margin: 1.5rem 1.5rem 0 0;
+  margin: 1.5rem;
 }
 
 header nav li:first-child {
@@ -316,9 +305,22 @@ header a:hover {
   color: var(--color-primary-lightest);
 }
 
-@media (min-width: 414px) {
+@media (min-width: 300px) {
+  body {
+    border-top: 35rem solid #333;
+    border-left: none;
+  }
+
   header nav li:first-child {
     display: initial;
+  }
+
+  header {
+    position: absolute;
+    top: 3rem;
+    left: 1rem;
+    text-align: center;
+    width: 100%;
   }
 
   header figcaption {
@@ -338,8 +340,16 @@ header a:hover {
 
   body {
     padding: 1.5rem;
+    border-top: none;
+    border-left: 30rem solid var(--color-primary-lighter);
   }
 
+  header {
+    position: absolute;
+    top: 3rem;
+    left: 0rem;
+    width: 30rem;
+  }
   #veil {
     border-radius: .25rem;
   }
