@@ -5,14 +5,14 @@
 
 /* Variables */
 :root {
-  --color-primary: #994444;
-  --color-primary-lighter: #aa7777;
+  --color-primary: #555;
+  --color-primary-lighter: #333;
   --color-primary-lightest: #cc9999;
   --color-green: hsl(153, 90%, 30%);
   --color-orange: hsl(18, 100%, 50%);
-  --color-red: hsl(333, 100%, 40%);
+  --color-red: #daa;
   --color-blue: hsl(198, 90%, 40%);
-  --color-black: #000;
+  --color-black: #eee;
   --color-white: #FFF;
 }
 
@@ -47,6 +47,11 @@ section {
   padding: 1.5rem;
 }
 
+header a:hover {
+  text-decoration: none;
+  color: #fff;
+}
+
 ul,
 ol {
   list-style-position: outside;
@@ -63,7 +68,7 @@ li {
 }
 
 header {
-  color: var(--color-white);
+  color: 009900;
 }
 
 footer {
@@ -110,7 +115,7 @@ h1 {
   font-weight: 600;
   letter-spacing: .125rem;
   line-height: 3rem;
-  margin: 1.5rem 0;
+  margin: 1.5rem;
   text-align: center;
   text-transform: uppercase;
 }
@@ -140,7 +145,7 @@ p {
 
 /* Inline Elements */
 a {
-  color: var(--color-primary);
+  color: var(--color-red);
   font-weight: 500;
   text-decoration: none;
   transition: color 125ms, background-color 125ms;
@@ -148,7 +153,8 @@ a {
 
 a:focus,
 a:hover {
-  color: var(--color-primary-lighter);
+  color: var(--color-white);
+  text-decoration: underline;
 }
 
 a span {
@@ -179,38 +185,25 @@ abbr {
 }
 
 #veil {
-  background: var(--color-white);
+  background: var(--primary-color);
 }
 
 /* Utility Classes */
 .logo {
   display: inline-block;
   height: 2.625rem;
-  margin-right: .75rem;
+  margin-top: .75rem;
   vertical-align: -.8125rem;
   width: 2.625rem;
+  padding: 1rem;
+  background-color: #fff;
+  border-radius: 10rem;
 }
 
 .error,
 .important {
   color: var(--color-red);
   font-weight: 600;
-}
-
-.translations td {
-  padding-right: 1.5rem;
-}
-
-.translations td:first-child {
-  vertical-align: middle;
-}
-
-.translations tr > :last-child {
-  text-align: right;
-}
-
-.translations td:nth-last-child(2) {
-  width: 90%;
 }
 
 .data-list {
@@ -290,13 +283,12 @@ header figcaption {
 }
 
 header nav ul {
-  display: flex;
   list-style-type: none;
   margin: 0;
 }
 
 header nav li {
-  margin: 0 1.5rem 0 0;
+  margin: 1.5rem;
 }
 
 header nav li:first-child {
@@ -313,9 +305,22 @@ header a:hover {
   color: var(--color-primary-lightest);
 }
 
-@media (min-width: 414px) {
+@media (min-width: 300px) {
+  body {
+    border-top: 35rem solid #333;
+    border-left: none;
+  }
+
   header nav li:first-child {
     display: initial;
+  }
+
+  header {
+    position: absolute;
+    top: 3rem;
+    left: 1rem;
+    text-align: center;
+    width: 100%;
   }
 
   header figcaption {
@@ -335,8 +340,16 @@ header a:hover {
 
   body {
     padding: 1.5rem;
+    border-top: none;
+    border-left: 30rem solid var(--color-primary-lighter);
   }
 
+  header {
+    position: absolute;
+    top: 3rem;
+    left: 0rem;
+    width: 30rem;
+  }
   #veil {
     border-radius: .25rem;
   }

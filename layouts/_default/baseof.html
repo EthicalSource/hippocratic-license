@@ -5,7 +5,6 @@
     <title>{{ .Site.Title }}: {{ .Title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico">
-    <!-- Bloody heck, Apple -->
     <link rel="apple-touch-icon" sizes="57x57" href="/images/apple-touch-icon-57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="/images/apple-touch-icon-60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="/images/apple-touch-icon-72.png">
@@ -16,19 +15,11 @@
     <link rel="apple-touch-icon" sizes="152x152" href="/images/apple-touch-icon-152.png">
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-180.png">
     <link rel="mask-icon" href="/images/mask-icon.svg" color="#5e0c72">
-    <!-- Make live reloading work better during development (pass the -D flag to hugo server) -->
-    {{ if .Site.BuildDrafts }}
-      <link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}">
-      <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
-    {{ else }}
-      <style>
-        {{ readFile "static/css/fonts.css" | safeCSS }}
-        {{ readFile "static/css/main.css" | safeCSS }}
-      </style>
-    {{ end }}
+    <link rel="stylesheet" href="/css/fonts.css">
+    <link rel="stylesheet" href="/css/main.css">
   </head>
   <body{{ with .Section }} id="{{ . }}"{{ end }}>
-    <div>
+    <div id="col-left">
       <header>
         <figure>
           <figcaption>
@@ -57,8 +48,8 @@
       <footer>
         <p>
           The Hippocratic License was created by <a href="http://where.coraline.codes/" title="Coraline Ada Ehmke">Coraline Ada Ehmke</a> in 2019.<br>
-          Support this and related initiatives through <a href="https://www.patreon.com/coraline" title="Patreon">our Patreon</a> or on
-          <a href="https://opencollective.com/contributor-covenant">Open Collective</a>.
+          Support this and related initiatives through
+          <a href="https://opencollective.com/ethical-source">Ethical Source on Open Collective</a>.
         </p>
       </footer>
     </div>
