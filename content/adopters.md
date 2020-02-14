@@ -6,5 +6,7 @@ title = "Adopters"
 
 {{< data-list "static/adopters.csv" >}}
 
-To add your project to the list, [submit a pull
+In addition, [WeTransfer](https://github.com/wetransfer/) is adopting the Hippocratic License for all of its open source projects.
+
+To add your project to this list, [submit a pull
 request](https://github.com/ContributorCovenant/hippocratic-license/blob/release/README.md#adding-a-project-to-the-list-of-adopters "Hippocratic License source code").

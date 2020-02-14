@@ -1,4 +1,4 @@
-Copyright 2020 Coraline Ada Ehmke
+Copyright (YEAR) (COPYRIGHT HOLDER)
 
 Hippocratic License Version 2.0.  
 
