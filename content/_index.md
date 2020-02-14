@@ -15,7 +15,7 @@ One of the delightful things about code is discovering its utility in novel situ
 
 Open source licenses have long been the primary tool for promoting the use of our software under our own rules and conditions. In the past these licenses were used to allow the free distribution, modification, and use of our software. But there is nothing stopping us from taking this further.
 
-Introducing the Hippocratic License: an Ethical Source license that specifically prohibits the use of software to violate universal standards of human rights, and embodying the principles of [Ethical Source Software](https://ethicalsource.dev).
+Introducing the Hippocratic License: an Ethical Source license that specifically prohibits the use of software to violate universal standards of human rights, and embodying the principles of [Ethical Source Software](https://ethicalsource.dev/definition).
 
 ## Hippocratic License 2.0
 
