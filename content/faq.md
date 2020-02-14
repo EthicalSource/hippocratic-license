@@ -3,10 +3,10 @@ title = "Frequently Asked Questions"
 +++
 
 ## Has the Hippocratic License been subject to legal review?
-Yes. We worked with a team of IP lawyers to create the 2.0 version of the license.
+Yes. We worked with a team of talented and specialized IP lawyers to create the 2.0 version of the license.
 
 ## Is the Hippocratic License open source?
-It is the intention and belief of the authors that the Hippocratic License is an open source license, and that it meets the criteria of the [Open Source Definition](https://opensource.org/docs/osd) (OSD). However, it has not yet been reviewed by the OSI, so a determination on its OSI approval status is pending.
+It is the intention and belief of the author that the Hippocratic License is an open source license, and that it meets the criteria of the [Open Source Definition](https://opensource.org/docs/osd) (OSD). However, it has not yet been reviewed by the OSI, so a determination on its OSI approval status is pending.
 
 ## Doesn't the Hippocratic License violate the "No Discrimination" and "Fields of Endeavor" terms of the Open Source Definition?
 Those sections state that an Open Source License must not discriminate against any person or group of persons, or against any field of endeavor, respectively.
