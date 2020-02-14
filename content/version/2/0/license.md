@@ -3,7 +3,8 @@ Copyright (YEAR) (COPYRIGHT HOLDER)
 Hippocratic License Version 2.0.  
 
 Licensor hereby grants permission by this license ("License"), free of charge, to any person or entity (the "Licensee") obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
- 
+
+
 * The above copyright notice and this License or a subsequent version published on the Hippocratic License Website (https://firstdonoharm.dev/) shall be included in all copies or substantial portions of the Software. Licensee has the option of following the terms and conditions either of the above numbered version of this License or of any subsequent version published on the Hippocratic License Website.
 
 * Compliance with Human Rights Laws and Human Rights Principles:
