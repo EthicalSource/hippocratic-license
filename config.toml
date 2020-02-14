@@ -19,28 +19,15 @@ suffixes = ["md"]
 [mediaTypes."text/plain"]
 suffixes = ["txt"]
 
-[mediaTypes."text/asciidoc"]
-suffixes = ["adoc"]
-
 [outputFormats]
 [outputFormats.Markdown]
 mediaType = "text/markdown"
 isPlainText = true
 baseName = "LICENSE"
 
-[outputFormats.PlainText]
-mediaType = "text/plain"
-isPlainText = true
-baseName = "LICENSE"
-
-[outputFormats.AsciiDoc]
-mediaType = "text/asciidoc"
-isPlainText = true
-baseName = "LICENSE"
-
 [outputs]
 home = ["html"]
-page = ["html", "markdown", "plaintext", "asciidoc"]
+page = ["html", "markdown"]
 
 # Add all translated languages here.
 [Languages]
