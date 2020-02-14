@@ -341,15 +341,16 @@ header a:hover {
   body {
     padding: 1.5rem;
     border-top: none;
-    border-left: 30rem solid var(--color-primary-lighter);
+    border-left: 20rem solid var(--color-primary-lighter);
   }
 
   header {
     position: absolute;
     top: 3rem;
     left: 0rem;
-    width: 30rem;
+    width: 20rem;
   }
+
   #veil {
     border-radius: .25rem;
   }
@@ -359,5 +360,24 @@ header a:hover {
     -ms-column-count: 2;
     -webkit-column-count: 2;
     column-count: 2;
+  }
+}
+
+@media (min-width: 1000px) {
+  html {
+    font-size: 1rem;
+  }
+
+  body {
+    padding: 1.5rem;
+    border-top: none;
+    border-left: 30rem solid var(--color-primary-lighter);
+  }
+
+  header {
+    position: absolute;
+    top: 3rem;
+    left: 0rem;
+    width: 30rem;
   }
 }
