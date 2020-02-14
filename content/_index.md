@@ -33,4 +33,4 @@ Simply make a copy of the text of the license and enter the copyright date and n
 The Hippocratic License is a living document, and has been [open sourced](https://github.com/ContributorCovenant/hippocratic-license "Hippocratic License source code"). Contributions in the form of issues and pull requests are welcomed and encouraged.
 
 ## Special Thanks
-We are grateful for the contributions of Matt Boehm, Greg McMullen, Brad Simon, David Heinemeier Hansson (DHH), the members of the Ethical Source Working Group, and our contributors on GitHub, without whom this license would not have been possible.
+We are grateful for the contributions of [Matt Boehm](https://twitter.com/bigolewannabe), Greg McMullen, [Brad Simon](https://bradsimonlaw.com), David Heinemeier Hansson ([DHH](https://twitter.com/dhh)), the members of the [Ethical Source Working Group](https://ethicalsource.dev), and our contributors on [GitHub](https://github.com/ContributorCovenant/hippocratic-license), without whom this license would not have been possible.
