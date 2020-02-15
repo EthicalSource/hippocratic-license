@@ -1,5 +1,5 @@
 +++
-title = "An Ethical Open Source License"
+title = "An Ethical License for Open Source"
 +++
 
 ## An Ethical License for Open Source Projects
