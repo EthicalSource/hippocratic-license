@@ -8,6 +8,10 @@ Yes. We worked with a team of talented and specialized IP lawyers to create the 
 ## Is the Hippocratic License open source?
 It is the intention and belief of the author that the Hippocratic License is an open source license, and that it meets the criteria of the [Open Source Definition](https://opensource.org/docs/osd) (OSD). However, it has not yet been reviewed by the OSI, so a determination on its OSI approval status is pending.
 
+## Is the Hippocratic License based on another open source license?
+Originally yes, it was based on the MIT License, but the 2.x revisions brought it so far from that license that it can’t really be thought of as a derivative anymore.
+
+
 ## Doesn't the Hippocratic License violate the "No Discrimination" and "Fields of Endeavor" terms of the Open Source Definition?
 Those sections state that an Open Source License must not discriminate against any person or group of persons, or against any field of endeavor, respectively.
 
