@@ -1,5 +1,5 @@
 # hippocratic-license
-An ethical open source license alternative created by [Coraline Ada Ehmke](https://where.coraline.codes/).
+An ethical license for open source, created by [Coraline Ada Ehmke](https://where.coraline.codes/).
 
 ## Project Home Page
 
