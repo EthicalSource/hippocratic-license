@@ -4,7 +4,7 @@ title = "Adopters"
 
 ## Adopters of the Hippocratic License
 
-The Hippocratic License has been adopted by projects including:
+The Hippocratic License has been adopted by over 300 projects including:
 
 {{< data-list "static/adopters.csv" >}}
 
