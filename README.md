@@ -3,7 +3,8 @@ An ethical license for open source, created by [Coraline Ada Ehmke](https://wher
 
 ## Project Home Page
 
-For an overview and usage instructions, please visit [firstdonoharm.dev](https://firstdonoharm.dev/)
+For an overview and usage instructions, please visit [firstdonoharm.dev](https://firstdonoharm.dev/). 
+The license itself is available at https://firstdonoharm.dev/version/2/1/license.html
 
 ## Contributing
 
