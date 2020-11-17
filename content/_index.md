@@ -30,7 +30,7 @@ Simply make a copy of the text of the license and enter the copyright date and n
 
 ## How to Contribute
 
-The Hippocratic License is a living document, and has been [open sourced](https://github.com/ContributorCovenant/hippocratic-license "Hippocratic License source code"). Contributions in the form of issues and pull requests are welcomed and encouraged.
+The Hippocratic License is a living document, and has been released under a Creative Commons license. [Source](https://github.com/ContributorCovenant/hippocratic-license "Hippocratic License source code"). Contributions in the form of issues and pull requests are welcomed and encouraged.
 
 ## Special Thanks
 We are grateful for the contributions of [Matt Boehm](https://twitter.com/bigolewannabe), Greg McMullen, [Brad Simon](https://bradsimonlaw.com), David Heinemeier Hansson ([DHH](https://twitter.com/dhh)), [Luis Villa](https://twitter.com/luis_in_brief), the members of the [Ethical Source Working Group](https://ethicalsource.dev), and our contributors on [GitHub](https://github.com/ContributorCovenant/hippocratic-license), without whom this license would not exist.
