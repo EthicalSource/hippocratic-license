@@ -1,5 +1,5 @@
 baseURL = "https://firstdonoharm.dev"
-# canonifyURLs = true
+canonifyURLs = true
 languageCode = "en-us"
 title = "The Hippocratic License 2.1"
 disableKinds = ["RSS"]
@@ -8,7 +8,7 @@ DefaultContentLanguage = "en"
 hasCJKLanguage = true
 EnableMissingTranslationPlaceholders = true
 
-uglyURLs = true
+uglyURLs = false
 
 googleAnalytics = "UA-101929377-4"
 
