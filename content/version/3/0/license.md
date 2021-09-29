@@ -39,13 +39,19 @@ _This section lists conditions the Licensee must comply with in order to have ri
         3.1.8. Subject any person to arbitrary interference with a person’s privacy, family, home, or correspondence without the express written consent of the person (_See_ Article 12, _United Nations Universal Declaration of Human Rights_; Article 17, _International Covenant on Civil and Political Rights_);
         3.1.9. Arbitrarily deprive any person of his/her/their property (_See_ Article 17, _United Nations Universal Declaration of Human Rights_);
         3.1.10. Forcibly remove indigenous peoples from their lands or territories or take any action with the aim or effect of dispossessing indigenous peoples from their lands, territories, or resources without the free, prior, and informed consent of indigenous peoples concerned (_See _Articles 8 and 10, _United Nations Declaration on the Rights of Indigenous Peoples_).
-        3.1.11. Provide equal pay for equal work where the performance of such work requires equal skill, effort, and responsibility, and which are performed under similar working conditions, except where such payment is made pursuant to:
+        3.1.11. Interfere with Workers’ free exercise of the right to organize and associate (See Article 20, United Nations Universal Declaration of Human Rights; C087 - Freedom of Association and Protection of the Right to Organise Convention, 1948 (No. 87), International Labour Organization; Article 8, International Covenant on Economic, Social and Cultural Rights); and
+        3.1.12. Harm the environment in a manner inconsistent with local, state, national, or international law.
+
+    3.2. The Licensee SHALL:
+        3.2.1. Provide equal pay for equal work where the performance of such work requires equal skill, effort, and responsibility, and which are performed under similar working conditions, except where such payment is made pursuant to:
               3.1.11.1. A seniority system;
               3.1.11.2. A merit system;
               3.1.11.3. A system which measures earnings by quantity or quality of production; or
               3.1.11.4. A differential based on any other factor other than sex, gender, sexual orientation, race, ethnicity, nationality, religion, caste, age, medical disability or impairment, and/or any other like circumstances
               (_See_ 29 U.S.C.A. § 206(d)(1); Article 23, _United Nations Universal Declaration of Human Rights_; Article 7, _International Covenant on Economic, Social and Cultural Rights_; Article 26, _International Covenant on Civil and Political Rights_); and
-        3.1.12. Allow for reasonable limitation of working hours and periodic holidays with pay (_See_ Article 24, _United Nations Universal Declaration of Human Rights_; Article 7, _International Covenant on Economic, Social and Cultural Rights_).
+        3.2.2 Allow for reasonable limitation of working hours and periodic holidays with pay (_See_ Article 24, _United Nations Universal Declaration of Human Rights_; Article 7, _International Covenant on Economic, Social and Cultural Rights_).
+
+
 4. **THIRD-PARTY BENEFICIARIES:**
 _This section identifies additional individuals or entities that a Licensee could harm as a result of violating the Ethical Standards section, the condition that the Licensee must voluntarily accept a Duty of Care for those individuals or entities, and the right to a private right of action that those individuals or entities possess as a result of violations of the Ethical Standards section._
 
