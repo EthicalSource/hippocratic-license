@@ -24,7 +24,7 @@ You can view and download the Hippocratic License 3.0 (Core) here:
 
 The core license provides protections for universally recognized human rights, including specific provisions for Indigenous rights. We are also developing optional modules that focus on specific areas of concern, such as environmental justice or labor rights. These modules, powered by an interactive license builder, will empower adopters to customize the Hippocratic License to reflect the needs and challenges of their particular communities.
 
-The HL3 license builder will be available for use in mid-October.
+The HL3 license builder with optional modules will be available for use in mid-October.
 
 Development of the Hippocratic License 3.0 was led by Sameeul Haque, an IP and human rights attorney with OES partner [Corporate Accountability Lab (CAL)](https://corpaccountabilitylab.org/), in consultation with a special-purpose working group that included other ethical source license creators as well as open source maintainers.
 
