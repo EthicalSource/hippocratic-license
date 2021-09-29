@@ -15,11 +15,18 @@ One of the delightful things about code is discovering its utility in novel situ
 
 Open source licenses have long been the primary tool for promoting the use of our software under our own rules and conditions. In the past these licenses were used to allow the free distribution, modification, and use of our software. But there is nothing stopping us from taking this further.
 
-Introducing the Hippocratic License: an Ethical Source license that specifically prohibits the use of software to violate universal standards of human rights, and embodying the principles of [Ethical Source Software](https://ethicalsource.dev/definition).
+Introducing the Hippocratic License: an Ethical Source license that specifically prohibits the use of software to violate universal standards of human rights, and embodying the [Ethical Source Principles](https://ethicalsource.dev/principles).
+
+## Hippocratic License 3.0
+You can view and download the core 3.0 version of the Hippocratic License here:
+
+- [PDF](/version/3/0/license.pdf)
+
+The core license provides protections for universally recognized human rights. We are also developing optional modules that focus on specific areas of concern, such as environmental justice or labor rights. These modules, powered by an interactive license builder, will empower adopters to customize the Hippocratic License to reflect the needs and challenges of their particular communities. The license builder will be available for use in mid-OCtober.
 
 ## Hippocratic License 2.1
 
-You can view and download the latest version of the Hippocratic License here:
+You can view and download the 2.1 version of the Hippocratic License here:
 
 - [Markdown]({{< ref "/version/2/1/license.md" "markdown" >}})
 - [HTML version]({{< ref "/version/2/1/license.md" >}})
