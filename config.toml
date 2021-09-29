@@ -25,9 +25,14 @@ mediaType = "text/markdown"
 isPlainText = true
 baseName = "LICENSE"
 
+[outputFormats.PlainText]
+mediaType = "text/plain"
+isPlainText = true
+baseName = "LICENSE"
+
 [outputs]
 home = ["html"]
-page = ["html", "markdown"]
+page = ["html", "markdown", "plaintext"]
 
 # Add all translated languages here.
 [Languages]
