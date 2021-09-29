@@ -27,7 +27,7 @@
       <header>
         <figure>
           <figcaption>
-            <a href="/">The Hippocratic License 2.1</a>
+            <a href="/">The Hippocratic License</a>
           </figcaption>
           <a href="/">
             <img class="logo" src="/images/logo.svg" alt="Hippocratic License Logo">
@@ -36,9 +36,6 @@
         <nav id="navigation">
           <ul>
             <li><a href="/">Home</a></li>
-            {{- range last 1 (where $.Site.RegularPages "Section" "version") -}}
-            <li><a href="{{ .Permalink | absLangURL }}">Latest&nbsp;Version</a></li>
-            {{- end -}}
             <li><a href="{{ ref . "faq.md" }}">FAQ</a></li>
             <li><a href="{{ ref . "adopters.md" }}">Adopters</a></li>
           </ul>
