@@ -18,11 +18,13 @@ Open source licenses have long been the primary tool for promoting the use of ou
 Introducing the Hippocratic License: an Ethical Source license that specifically prohibits the use of software to violate universal standards of human rights, and embodying the [Ethical Source Principles](https://ethicalsource.dev/principles).
 
 ## Hippocratic License 3.0
+The core license provides protections for universally recognized human rights. We are also developing optional modules that focus on specific areas of concern, such as environmental justice or labor rights. These modules, powered by an interactive license builder, will empower adopters to customize the Hippocratic License to reflect the needs and challenges of their particular communities.
+
 You can view and download the core 3.0 version of the Hippocratic License here:
 
 - [PDF](/version/3/0/license.pdf)
 
-The core license provides protections for universally recognized human rights. We are also developing optional modules that focus on specific areas of concern, such as environmental justice or labor rights. These modules, powered by an interactive license builder, will empower adopters to customize the Hippocratic License to reflect the needs and challenges of their particular communities.
+Development of the Hippocratic License 3.0 was led by Sameeul Haque, an IP and human rights attorney with OES partner [Corporate Accountability Lab (CAL)](https://corpaccountabilitylab.org/), in consultation with a special-purpose working group that included other ethical source license creators as well as open source maintainers.
 
 The HL3 license builder will be available for use in mid-October.
 
@@ -37,9 +39,3 @@ You can view and download the 2.1 version of the Hippocratic License here:
 
 Simply make a copy of the text of the license and enter the copyright date and name of the copyright holder. Put this license file (e.g. LICENSE.md) in the root directory of your project repository and include it with the distribution of your software.
 
-## How to Contribute
-
-The Hippocratic License is a living document, and has been released under a Creative Commons license. [Source](https://github.com/ContributorCovenant/hippocratic-license "Hippocratic License source code"). Contributions in the form of issues and pull requests are welcomed and encouraged.
-
-## Special Thanks
-We are grateful for the contributions of [Matt Boehm](https://twitter.com/bigolewannabe), Greg McMullen, [Brad Simon](https://bradsimonlaw.com), David Heinemeier Hansson ([DHH](https://twitter.com/dhh)), [Luis Villa](https://twitter.com/luis_in_brief), the members of the [Ethical Source Working Group](https://ethicalsource.dev), and our contributors on [GitHub](https://github.com/ContributorCovenant/hippocratic-license), without whom this license would not exist.
