@@ -21,6 +21,7 @@ Introducing the Hippocratic License: an Ethical Source license that specifically
 You can view and download the Hippocratic License 3.0 (Core) here:
 
 - [PDF](/version/3/0/license.pdf)
+- [Markdown]({{< ref "/version/3/0/license.md" "markdown" >}})
 
 The core license provides protections for universally recognized human rights, including specific provisions for Indigenous rights. We are also developing optional modules that focus on specific areas of concern, such as environmental justice or labor rights. These modules, powered by an interactive license builder, will empower adopters to customize the Hippocratic License to reflect the needs and challenges of their particular communities.
 
