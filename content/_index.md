@@ -22,7 +22,9 @@ You can view and download the core 3.0 version of the Hippocratic License here:
 
 - [PDF](/version/3/0/license.pdf)
 
-The core license provides protections for universally recognized human rights. We are also developing optional modules that focus on specific areas of concern, such as environmental justice or labor rights. These modules, powered by an interactive license builder, will empower adopters to customize the Hippocratic License to reflect the needs and challenges of their particular communities. The license builder will be available for use in mid-OCtober.
+The core license provides protections for universally recognized human rights. We are also developing optional modules that focus on specific areas of concern, such as environmental justice or labor rights. These modules, powered by an interactive license builder, will empower adopters to customize the Hippocratic License to reflect the needs and challenges of their particular communities.
+
+The HL3 license builder will be available for use in mid-October.
 
 ## Hippocratic License 2.1
 
