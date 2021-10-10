@@ -63,6 +63,32 @@ ol {
   margin: 1.5rem 1.5rem 1.5rem 0;
 }
 
+ol {
+  counter-reset: ordered-list-item;
+  list-style-type: decimal;
+}
+
+ol ol {
+  list-style-type: none;
+}
+
+ol > li {
+  counter-increment: ordered-list-item;
+}
+
+ol ol li {
+  margin-bottom: 1.875rem;
+}
+
+ol ol li > p {
+  display: inline;
+}
+
+ol ol > li:before {
+  content: counters(ordered-list-item, ".") ". ";
+  display: inline-block;
+}
+
 li {
   margin-bottom: .375rem;
 }
