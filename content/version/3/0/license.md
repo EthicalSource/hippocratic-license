@@ -49,7 +49,7 @@ _This section lists conditions the Licensee must comply with in order to have ri
         3.1.7. Subject any person to arbitrary arrest, detention, or exile (_See_ Article 9, _United Nations Universal Declaration of Human Rights_; Article 9, _International Covenant on Civil and Political Rights_);
         3.1.8. Subject any person to arbitrary interference with a person’s privacy, family, home, or correspondence without the express written consent of the person (_See_ Article 12, _United Nations Universal Declaration of Human Rights_; Article 17, _International Covenant on Civil and Political Rights_);
         3.1.9. Arbitrarily deprive any person of his/her/their property (_See_ Article 17, _United Nations Universal Declaration of Human Rights_);
-        3.1.10. Forcibly remove indigenous peoples from their lands or territories or take any action with the aim or effect of dispossessing indigenous peoples from their lands, territories, or resources without the free, prior, and informed consent of indigenous peoples concerned (_See _Articles 8 and 10, _United Nations Declaration on the Rights of Indigenous Peoples_).
+        3.1.10. Forcibly remove indigenous peoples from their lands or territories or take any action with the aim or effect of dispossessing indigenous peoples from their lands, territories, or resources without the free, prior, and informed consent of indigenous peoples concerned (_See_ Articles 8 and 10, _United Nations Declaration on the Rights of Indigenous Peoples_).
         3.1.11. Interfere with Workers’ free exercise of the right to organize and associate (See Article 20, United Nations Universal Declaration of Human Rights; C087 - Freedom of Association and Protection of the Right to Organise Convention, 1948 (No. 87), International Labour Organization; Article 8, International Covenant on Economic, Social and Cultural Rights); and
         3.1.12. Harm the environment in a manner inconsistent with local, state, national, or international law.
 
@@ -73,7 +73,7 @@ _This section identifies additional individuals or entities that a Licensee coul
     4.2. Breaches of the Duty of Care, as stated within this section, shall create a private right of action, allowing any Third-Party Beneficiary harmed by the Licensee to take legal action against the Licensee in accordance with applicable negligence laws, whether they be in tort law, delict law, and/or similar bodies of law closely related to tort and/or delict law, regardless if Licensee is directly responsible for the harms suffered by a Third-Party Beneficiary. Nothing in this section shall be interpreted to include acts committed by individuals outside of the scope of his/her/their employment.
 
 5. **NOTICE:**
-_This section explains when a Licensee must notify others of the License. _
+_This section explains when a Licensee must notify others of the License._
 
     5.1. Distribution of Notice: Licensee must ensure that everyone who receives a copy of or uses any part of Software from Licensee, with or without changes, also receives the License and the copyright notice included with Software (and if included by the Licensor, patent, trademark, and attribution notice). Licensee must ensure that License is prominently displayed so that any individual or entity seeking to download, copy, use, or otherwise receive any part of Software from Licensee is notified of this License and its terms and conditions. Licensee must cause any modified versions of the Software to carry prominent notices stating that Licensee changed the Software.
 
