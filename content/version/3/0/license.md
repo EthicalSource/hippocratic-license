@@ -44,39 +44,39 @@ TERMS AND CONDITIONS FOR USE, COPY, MODIFICATION, PREPARATION OF DERIVATIVE WORK
 
   3.1.  The Licensee SHALL NOT, whether directly or indirectly, through agents or assigns:
 
-    3.1.1.  Infringe upon any person's right to life or security of person, engage in extrajudicial killings, or commit murder, without lawful cause 
+    3.1.1.  Infringe upon any person's right to life or security of person, engage in extrajudicial killings, or commit murder, without lawful cause
     (See Article 3, *United Nations Universal Declaration of Human Rights*; Article 6, *International Covenant on Civil and Political Rights*)
 
-    3.1.2.  Hold any person in slavery, servitude, or forced labor 
+    3.1.2.  Hold any person in slavery, servitude, or forced labor
     (See Article 4, *United Nations Universal Declaration of Human Rights*; Article 8, *International Covenant on Civil and Political Rights*);
 
-    3.1.3.  Contribute to the institution of slavery, slave trading, forced labor, or unlawful child labor 
+    3.1.3.  Contribute to the institution of slavery, slave trading, forced labor, or unlawful child labor
     (See Article 4, *United Nations Universal Declaration of Human Rights*; Article 8, *International Covenant on Civil and Political Rights*);
 
-    3.1.4.  Torture or subject any person to cruel, inhumane, or degrading treatment or punishment 
+    3.1.4.  Torture or subject any person to cruel, inhumane, or degrading treatment or punishment
     (See Article 5, *United Nations Universal Declaration of Human Rights*; Article 7, *International Covenant on Civil and Political Rights*);
 
-    3.1.5.  Discriminate on the basis of sex, gender, sexual orientation, race, ethnicity, nationality, religion, caste, age, medical disability or impairment, and/or any other like circumstances 
+    3.1.5.  Discriminate on the basis of sex, gender, sexual orientation, race, ethnicity, nationality, religion, caste, age, medical disability or impairment, and/or any other like circumstances
     (See Article 7, *United Nations Universal Declaration of Human Rights*; Article 2, *International Covenant on Economic, Social and Cultural Rights*; Article 26, *International Covenant on Civil and Political Rights*);
 
-    3.1.6.  Prevent any person from exercising his/her/their right to seek an effective remedy by a competent court or national tribunal (including domestic judicial systems, international courts, arbitration bodies, and other adjudicating bodies) for actions violating the fundamental rights granted to him/her/them by applicable constitutions, applicable laws, or by this License 
+    3.1.6.  Prevent any person from exercising his/her/their right to seek an effective remedy by a competent court or national tribunal (including domestic judicial systems, international courts, arbitration bodies, and other adjudicating bodies) for actions violating the fundamental rights granted to him/her/them by applicable constitutions, applicable laws, or by this License
     (See Article 8, *United Nations Universal Declaration of Human Rights*; Articles 9 and 14, *International Covenant on Civil and Political Rights*);
 
-    3.1.7.  Subject any person to arbitrary arrest, detention, or exile 
+    3.1.7.  Subject any person to arbitrary arrest, detention, or exile
     (See Article 9, *United Nations Universal Declaration of Human Rights*; Article 9, *International Covenant on Civil and Political Rights*);
 
-    3.1.8.  Subject any person to arbitrary interference with a person's privacy, family, home, or correspondence without the express written consent of the person 
+    3.1.8.  Subject any person to arbitrary interference with a person's privacy, family, home, or correspondence without the express written consent of the person
     (See Article 12, *United Nations Universal Declaration of Human Rights*; Article 17, *International Covenant on Civil and Political Rights*);
 
-    3.1.9.  Arbitrarily deprive any person of his/her/their property 
+    3.1.9.  Arbitrarily deprive any person of his/her/their property
     (See Article 17, *United Nations Universal Declaration of Human Rights*);
 
-    3.1.10. Forcibly remove indigenous peoples from their lands or territories or take any action with the aim or effect of dispossessing indigenous peoples from their lands, territories, or resources, including without limitation the intellectual property or traditional knowledge of indigenous peoples, without the free, prior, and informed consent of indigenous peoples concerned 
+    3.1.10. Forcibly remove indigenous peoples from their lands or territories or take any action with the aim or effect of dispossessing indigenous peoples from their lands, territories, or resources, including without limitation the intellectual property or traditional knowledge of indigenous peoples, without the free, prior, and informed consent of indigenous peoples concerned
     (See Articles 8 and 10, *United Nations Declaration on the Rights of Indigenous Peoples*);
 
-    3.1.11. (*Module -- Carbon Underground 200*) Be an individual or entity, or a representative, agent, affiliate, successor, attorney, or assign of an individual or entity, on the FFI Solutions Carbon Underground 200 list;
+    3.1.11. (Module -- Carbon Underground 200) Be an individual or entity, or a representative, agent, affiliate, successor, attorney, or assign of an individual or entity, on the FFI Solutions Carbon Underground 200 list;
 
-    3.1.12. (*Module -- Ecocide*) Commit ecocide:
+    3.1.12. (Module -- Ecocide) Commit ecocide:
 
       3.1.12.1  For the purpose of this section, "ecocide" means unlawful or wanton acts committed with knowledge that there is a substantial likelihood of severe and either widespread or long-term damage to the environment being caused by those acts;
 
@@ -94,50 +94,50 @@ TERMS AND CONDITIONS FOR USE, COPY, MODIFICATION, PREPARATION OF DERIVATIVE WORK
 
 			(See Section II, *Independent Expert Panel for the Legal Definition of Ecocide*, Stop Ecocide Foundation and the Promise Institute for Human Rights at UCLA School of Law, June 2021);
 
-    3.1.13. (*Module -- Extractive Industries*) Be an individual or entity, or a representative, agent, affiliate, successor, attorney, or assign of an individual or entity, that engages in fossil fuel or mineral exploration, extraction, development, or sale;
+    3.1.13. (Module -- Extractive Industries) Be an individual or entity, or a representative, agent, affiliate, successor, attorney, or assign of an individual or entity, that engages in fossil fuel or mineral exploration, extraction, development, or sale;
 
-    3.1.14. (*Module -- BDS*) Be an individual or entity, or a representative, agent, affiliate, successor, attorney, or assign of an individual or entity, identified by the Boycott, Divestment, Sanctions ("BDS") movement on its website ([https://bdsmovement.net/](https://bdsmovement.net/) and [https://bdsmovement.net/get-involved/what-to-boycott](https://bdsmovement.net/get-involved/what-to-boycott)) as a target for boycott;
+    3.1.14. (Module -- BDS) Be an individual or entity, or a representative, agent, affiliate, successor, attorney, or assign of an individual or entity, identified by the Boycott, Divestment, Sanctions ("BDS") movement on its website ([https://bdsmovement.net/](https://bdsmovement.net/) and [https://bdsmovement.net/get-involved/what-to-boycott](https://bdsmovement.net/get-involved/what-to-boycott)) as a target for boycott;
 
-    3.1.15. (*Module -- Taliban*) Be an individual or entity that:
+    3.1.15. (Module -- Taliban) Be an individual or entity that:
 
       3.1.15.1.  engages in any commercial transactions with the Taliban; or
 
       3.1.15.2.  is a representative, agent, affiliate, successor, attorney, or assign of the Taliban;
 
-    3.1.16. (*Module -- Myanmar*) Be an individual or entity that:
+    3.1.16. (Module -- Myanmar) Be an individual or entity that:
 
       3.1.16.1.  engages in any commercial transactions with the Myanmar/Burmese military junta; or
 
       3.1.16.2.  is a representative, agent, affiliate, successor, attorney, or assign of the Myanmar/Burmese government;
 
-    3.1.17. (*Module -- Xinjiang Uygur Autonomous Region*) Be an individual or entity, or a representative, agent, affiliate, successor, attorney, or assign of any individual or entity, that does business in, purchases goods from, or otherwise benefits from goods produced in the Xinjiang Uygur Autonomous Region of China;
+    3.1.17. (Module -- Xinjiang Uygur Autonomous Region) Be an individual or entity, or a representative, agent, affiliate, successor, attorney, or assign of any individual or entity, that does business in, purchases goods from, or otherwise benefits from goods produced in the Xinjiang Uygur Autonomous Region of China;
 
-    3.1.18. (*Module -- U.S. Tariff Act*) Be an individual or entity:
+    3.1.18. (Module -- U.S. Tariff Act) Be an individual or entity:
 
       3.1.18.1.  which U.S. Customs and Border Protection (CBP) has currently issued a Withhold Release Order (WRO) or finding against based on reasonable suspicion of forced labor; or
 
       3.1.18.2.  that is a representative, agent, affiliate, successor, attorney, or assign of an individual or entity that does business with an individual or entity which currently has a WRO or finding from CBP issued against it based on reasonable suspicion of forced labor;
 
-    3.1.19. (*Module -- Mass Surveillance*) Be a government agency or multinational corporation, or a representative, agent, affiliate, successor, attorney, or assign of a government or multinational corporation, which participates in mass surveillance programs;
+    3.1.19. (Module -- Mass Surveillance) Be a government agency or multinational corporation, or a representative, agent, affiliate, successor, attorney, or assign of a government or multinational corporation, which participates in mass surveillance programs;
 
-    3.1.20. (*Module -- Military Activities*) Be an entity or a representative, agent, affiliate, successor, attorney, or assign of an entity which conducts military activities;
+    3.1.20. (Module -- Military Activities) Be an entity or a representative, agent, affiliate, successor, attorney, or assign of an entity which conducts military activities;
 
-    3.1.21. (*Module -- Law Enforcement*) Be an individual or entity, or a or a representative, agent, affiliate, successor, attorney, or assign of an individual or entity, that provides good or services to, or otherwise enters into any commercial contracts with, any local, state, or federal law enforcement agency;
+    3.1.21. (Module -- Law Enforcement) Be an individual or entity, or a or a representative, agent, affiliate, successor, attorney, or assign of an individual or entity, that provides good or services to, or otherwise enters into any commercial contracts with, any local, state, or federal law enforcement agency;
 
-    3.1.22. (*Module -- Media*) Be an individual or entity, or a or a representative, agent, affiliate, successor, attorney, or assign of an individual or entity, that broadcasts messages promoting killing, torture, or other forms of extreme violence;
+    3.1.22. (Module -- Media) Be an individual or entity, or a or a representative, agent, affiliate, successor, attorney, or assign of an individual or entity, that broadcasts messages promoting killing, torture, or other forms of extreme violence;
 
-    3.1.23. Interfere with Workers' free exercise of the right to organize and associate 
+    3.1.23. Interfere with Workers' free exercise of the right to organize and associate
     (See Article 20, United Nations Universal Declaration of Human Rights; C087 - Freedom of Association and Protection of the Right to Organise Convention, 1948 (No. 87), International Labour Organization; Article 8, International Covenant on Economic, Social and Cultural Rights); and
 
     3.1.24. Harm the environment in a manner inconsistent with local, state, national, or international law.
 
   3.2.  The Licensee SHALL:
 
-    3.2.1.  (*Module -- Social Auditing*) Only use social auditing mechanisms that adhere to Worker-Driven Social Responsibility Network's Statement of Principles (https://wsr-network.org/what-is-wsr/statement-of-principles/) over traditional social auditing mechanisms, to the extent the Licensee uses any social auditing mechanisms at all;
+    3.2.1.  (Module -- Social Auditing) Only use social auditing mechanisms that adhere to Worker-Driven Social Responsibility Network's Statement of Principles (https://wsr-network.org/what-is-wsr/statement-of-principles/) over traditional social auditing mechanisms, to the extent the Licensee uses any social auditing mechanisms at all;
 
-    3.2.2.  (*Module -- Workers on Board of Directors*) Ensure that if the Licensee has a Board of Directors, 30% of Licensee's board seats are held by Workers paid no more than 200% of the compensation of the lowest paid Worker of the Licensee;
+    3.2.2.  (Module -- Workers on Board of Directors) Ensure that if the Licensee has a Board of Directors, 30% of Licensee's board seats are held by Workers paid no more than 200% of the compensation of the lowest paid Worker of the Licensee;
 
-    3.2.3.  (*Module -- Supply Chain Transparency*) Provide clear, accessible supply chain data to the public in accordance with the following conditions:
+    3.2.3.  (Module -- Supply Chain Transparency) Provide clear, accessible supply chain data to the public in accordance with the following conditions:
 
       3.2.3.1.  All data will be on Licensee's website and/or, to the extent Licensee is a representative, agent, affiliate, successor, attorney, subsidiary, or assign, on Licensee's principal's or parent's website or some other online platform accessible to the public via an internet search on a common internet search engine; and
 
@@ -152,11 +152,11 @@ TERMS AND CONDITIONS FOR USE, COPY, MODIFICATION, PREPARATION OF DERIVATIVE WORK
       3.2.4.3.  A system which measures earnings by quantity or quality of production; or
 
       3.2.4.4.  A differential based on any other factor other than sex, gender, sexual orientation, race, ethnicity, nationality, religion, caste, age, medical disability or impairment, and/or any other like circumstances
-      (See 29 U.S.C.A. ¤ 206(d)(1); Article 23, *United Nations Universal Declaration of Human Rights*; Article 7, *International Covenant on Economic, Social and Cultural Rights*; Article 26, *International Covenant on Civil and Political Rights*); and
+      (See 29 U.S.C.A. § 206(d)(1); Article 23, *United Nations Universal Declaration of Human Rights*; Article 7, *International Covenant on Economic, Social and Cultural Rights*; Article 26, *International Covenant on Civil and Political Rights*); and
 
-    3.2.5.  Allow for reasonable limitation of working hours and periodic holidays with pay 
+    3.2.5.  Allow for reasonable limitation of working hours and periodic holidays with pay
     (See Article 24, *United Nations Universal Declaration of Human Rights*; Article 7, *International Covenant on Economic, Social and Cultural Rights*).
-   
+
 4.  **SUPPLY CHAIN IMPACTED PARTIES:**
 
   *This section identifies additional individuals or entities that a Licensee could harm as a result of violating the Ethical Standards section, the condition that the Licensee must voluntarily accept a Duty of Care for those individuals or entities, and the right to a private right of action that those individuals or entities possess as a result of violations of the Ethical Standards section.*
@@ -198,7 +198,7 @@ TERMS AND CONDITIONS FOR USE, COPY, MODIFICATION, PREPARATION OF DERIVATIVE WORK
 
   8.2.  *Equitable Relief*: Licensor and any Supply Chain Impacted Party shall be entitled to equitable relief, including injunctive relief or specific performance of the terms hereof, in addition to any other remedy to which they are entitled at law or in equity.
 
-  8.3.  (*Module -- Copyleft*) *Copyleft*: Modified software, source code, or other derivative work must be licensed, in its entirety, under the exact same conditions as this License.
+  8.3.  (Module -- Copyleft) *Copyleft*: Modified software, source code, or other derivative work must be licensed, in its entirety, under the exact same conditions as this License.
 
   8.4.  *Severability*: If any term or provision of this License is determined to be invalid, illegal, or unenforceable by a court of competent jurisdiction, any such determination of invalidity, illegality, or unenforceability shall not affect any other term or provision of this License or invalidate or render unenforceable such term or provision in any other jurisdiction. If the determination of invalidity, illegality, or unenforceability by a court of competent jurisdiction pertains to the terms or provisions contained in the Ethical Standards section of this License, all rights in the Software granted to Licensee shall be deemed null and void as between Licensor and Licensee.
 
